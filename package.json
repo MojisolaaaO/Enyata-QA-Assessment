@@ -1,0 +1,23 @@
+{
+  "name": "enyata-qa-assessment",
+  "version": "1.0.0",
+  "description": "This repository contains automated test scripts designed to validate the following functionalities of [Sauce Demo](https://www.saucedemo.com/):\r - Login\r - Add to Cart\r - Checkout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MojisolaaaO/Enyata-QA-Assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MojisolaaaO/Enyata-QA-Assessment/issues"
+  },
+  "homepage": "https://github.com/MojisolaaaO/Enyata-QA-Assessment#readme",
+  "dependencies": {
+    "cypress": "^14.4.1"
+  }
+}
