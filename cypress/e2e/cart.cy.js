@@ -10,6 +10,7 @@ describe("Login", () => {
     const cart = new CartPage();
     login.login('standard_user', 'secret_sauce');
     cart.checkout();
+    cart.checkOrderConfirmation();
   });
 
 })
